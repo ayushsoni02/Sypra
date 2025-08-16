@@ -1,10 +1,10 @@
-# SYPM - Solana Yield Payment Manager
+# SYPM(or Sypra) - Solana Yield Payment Manager
 
 A decentralized payment processing system built on Solana blockchain that enables merchants to accept multiple tokens and process payments through Jupiter aggregator for optimal token swaps.
 
 ## Overview
 
-SYPM is a Solana program that provides a secure, efficient, and flexible payment processing solution for merchants. It supports multiple SPL tokens, automatic token conversion through Jupiter, and includes built-in fee collection mechanisms.
+SYPM(or Sypra) is a Solana program that provides a secure, efficient, and flexible payment processing solution for merchants. It supports multiple SPL tokens, automatic token conversion through Jupiter, and includes built-in fee collection mechanisms.
 
 ## Features
 
