@@ -1,8 +1,10 @@
 [package]
 name = "sypm"
 version = "0.1.0"
+authors = ["Ayush Soni <ayushsoni1021@gmail.com>"]
 description = "Created with Anchor"
 edition = "2021"
+license = "Apache-2.0"
 
 [lib]
 crate-type = ["cdylib", "lib"]
